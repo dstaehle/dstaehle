@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dstaehle
 - 👀 I’m interested in innovation technology to solve real world problems
-- 🌱 I’m currently improving my python and API integration skills 
-- 💞️ I’m looking to collaborate on API calls to give better visual analytics to games such as, Gloomhaven. 
+- 🌱 I’m currently improving my python and API integration skills
+- 💞️ I’m looking to collaborate on API calls to give better visual analytics to games such as Gloomhaven
 - 📫 Reach me at dw.staehle@gmail.com
 
 <!---
